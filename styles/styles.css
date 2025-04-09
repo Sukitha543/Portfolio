@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+
+.nav{
+    padding: 20px;
+    display: flex;
+    background-color:black;
+
+
+}
+
+.nav a{
+    text-decoration: none;
+    color: white;
+    padding: 14px 20px;
+   
+
+
+}
+
+
+
+.nav a:hover{
+    background-color: white;
+    color: black;
+}
+
+@media screen and (max-width: 700px) {
+    .nav {   
+      flex-direction: column;
+    }
+  }
+
+
