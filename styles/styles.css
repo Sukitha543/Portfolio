@@ -29,11 +29,17 @@
 }
 
 .hero{
-    padding: 60px;
-    background-color: blue;
-    padding: 80px;
+    background-image:url('../images/StockCake-Coding\ on\ Laptop_1744267250.jpg');
+    background-color:rgba(0, 0, 0, 0.45);
+    background-blend-mode:darken;
+    padding: 220px;
+    color: white;
     text-align: center;
+}
 
+h1{
+    text-align: center;
+    margin-top: 10px;
 }
 
 
@@ -42,12 +48,16 @@
 @media screen and (max-width: 700px) {
     .nav {   
       flex-direction: column;
+      
+      
+
     }
 
     .hero{
-        display: flex;
-        flex-direction: column;
-        flex-wrap: wrap;
+        padding: 100px;
+        background-position: center;
+       
+    
     }
   }
 
