@@ -99,6 +99,48 @@ h1{
     
 }
 
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    padding: 30px;
+    justify-content:center;
+}
+
+.flex > div{
+  background-color:rgba(245, 222, 179, 0.468);
+  width: 400px;
+  height: 450px;
+  margin: 10px;
+  padding: 15px;
+  border-radius:10px;
+  text-align: center;
+
+    
+}
+
+.flex >div h3{
+    font-size: 20px;
+}
+
+.btn-outline-success{
+    color: black;
+    border-color: black;
+}
+
+.btn-outline-success:hover{
+    background-color:black;
+    border-color: black;
+}
+.flex >div:hover{
+    box-shadow: 0 4px 8px 0 rgb(165, 137, 65), 0 6px 20px 0 rgb(165, 136, 64);
+}
+
+.projects{
+    width:350px;
+    height:200px;
+}
+
 @media screen and (max-width: 768px) {
     .nav {   
       flex-direction: column;
@@ -127,6 +169,15 @@ h1{
     transform: none !important;
   }
 }
-  
+  .projects{
+    margin-top: 10px;
+    width:300px;
+    height:200px;
+}
+
+.flex > div{
+    font-size:14px;
+    padding:5px;
+}
 }
 
