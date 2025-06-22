@@ -1,0 +1,91 @@
+{
+    "AboutMe":
+    {
+        "image": "images/d0700d35-3d3a-4383-a880-81c565aa95d9.jpg",
+        "alt":"picOfSukitha",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, dolorem.",
+        "width":350,
+        "height":350
+       
+    }
+    ,
+    "mySkills":
+    [
+        {
+            "name":"HTML",
+            "image":"images/1175208.webp",
+            "alt":"html",
+            "height":150
+        }
+        ,
+        {
+            "name":"CSS",
+            "image":"images/CSS3.png",
+            "alt":"css",
+            "height":150
+        }
+        ,
+        {
+            "name":"Javascript",
+            "image":"images/JavaScript.png",
+            "alt":"javascript",
+            "height":150
+        }
+        ,
+        {
+            "name":"python",
+            "image":"images/Python.png",
+            "alt":"python",
+            "height":150
+        }
+        ,
+        {
+            "name":"C#",
+            "image":"images/cSharp.png",
+            "alt":"c#",
+            "height":150
+        }
+        ,
+        {
+            "name":"Github",
+            "image":"images/GitHub.png",
+            "alt":"github",
+            "height":150
+        }
+    ],
+    "projects":
+    [
+        {
+            "title":"Library Management System",
+            "image":"images/WHAT-IS-THE-PURPOSE-OF-A-LIBRARY-MANAGEMENT-SYSTEM-min.png",
+            "alt":"Image of a Library Management System",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem consectetur similique corrupti optio expedita? In tenetur fuga vitae porro voluptates, saepe harum necessitatibus, doloribus magni, quis aperiam consequatur. Minus, aliquam.",
+            "link":""
+            
+        }
+        ,
+        {
+             "title":"Hospital Webssite",
+            "image":"images/hospital.png",
+            "alt":"Image of a hospital",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita, cumque.",
+            "link":""
+        }
+        ,
+        {
+             "title":"Portfolio Website",
+            "image":"images/Professional-portfolio-1040x694.webp",
+            "alt":"Image of a portfolio",
+            "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, cum.",
+            "link":""
+        }
+        ,
+        {
+             "title":"Stock Management System",
+            "image":"",
+            "alt":"Image of a Stock Management System",
+            "description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, cum.",
+            "link":""
+        }
+    ]
+}

@@ -150,7 +150,7 @@ h1{
 }
 
 .btn-primary[type="submit"] {
-  background-color: black;
+  background-color: rgb(24, 151, 24);
   color: white;
   width: 100%;
   margin-top: 15px;
@@ -197,6 +197,13 @@ h1{
 
 .thank-you-card .btn-outline-success:hover {
     transform: scale(1.05);
+}
+
+.footerContent{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
 }
 
 @media screen and (max-width: 768px) {
