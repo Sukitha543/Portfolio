@@ -1,9 +1,15 @@
-{
+{   
+    "Home":{
+        "name":"Sukitha Hettimudalige",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem consectetur similique corrupti optio expedita? In tenetur fuga vitae porro voluptates, saepe harum necessitatibus, doloribus magni, quis aperiam consequatur. Minus, aliquam.",
+        "image":"images/StockCake-Coding on Laptop_1744267250.jpg",
+        "link":""
+    },
     "AboutMe":
     {
         "image": "images/d0700d35-3d3a-4383-a880-81c565aa95d9.jpg",
         "alt":"picOfSukitha",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, dolorem.",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, quasi! Rem sint necessitatibus, quaerat ex suscipit voluptatem iusto? Molestiae, accusantium! Quod assumenda necessitatibus id distinctio laudantium ex, qui natus earum, doloremque quibusdam quos, quo corrupti non a nemo provident? Nemo, facere magnam? Accusamus explicabo fugit aliquam? Nobis atque eligendi corporis.",
         "width":350,
         "height":350
        
