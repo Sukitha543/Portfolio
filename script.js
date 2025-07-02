@@ -5,7 +5,7 @@
 
 async function fetchData(hero,about,skills,projects) {
     
-    const response = await fetch ('data.json');
+    const response = await fetch ('data/data.json');
     const data = await response.json();
 
     hero.innerHTML = `<h1>${data.Home.name}</h1>
