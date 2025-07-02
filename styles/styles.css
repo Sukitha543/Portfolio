@@ -6,9 +6,16 @@
 }
 
 .nav{
-    padding: 20px;
+    padding: 30px;
     display: flex;
     background-color:black;
+}
+
+.hamburger {
+  display: none;
+  font-size: 30px;
+  color: white;
+  cursor: pointer;
 }
 
 .nav a{
@@ -207,9 +214,31 @@ h1{
 }
 
 @media screen and (max-width: 768px) {
-    .nav {   
-      flex-direction: column;
-    }
+     
+  .hamburger {
+    display: block;
+  }
+
+  .nav{
+    padding: 20px;
+  }
+  
+    .nav-links {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .nav-links a {
+    padding: 15px 20px;
+    width: 100%;
+    border-top: 1px solid white;
+  }
+
+  /* Show links when active */
+  .nav-links.active {
+    display: flex;
+  }
 
     .hero{
         padding: 100px;
