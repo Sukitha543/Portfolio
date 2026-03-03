@@ -3,49 +3,67 @@
         "name": "Sukitha Hettimudalige",
         "description": "",
         "image": "images/StockCake-Coding on Laptop_1744267250.jpg",
-        "link": ""
+        "link": "https://drive.google.com/file/d/1aa6e8C_WB4wn-PJCUYiDCvAZxXYsHuPw/view?usp=sharing"
     },
     "AboutMe": {
         "image": "images/d0700d35-3d3a-4383-a880-81c565aa95d9.jpg",
         "alt": "picOfSukitha",
-        "description": "I’m Sukitha, a Software Engineering student at the University of Staffordshire, UK, with a solid understanding of both frontend and backend technologies. I have hands-on experience working on real-world projects and a strong passion for building efficient and user-friendly applications. Aspiring to become a full stack developer, I’m constantly exploring new trends in IT while staying dedicated, hardworking, and always eager to learn and grow in the ever-evolving tech world.",
+        "description": "I’m Sukitha, a Software Engineering student at the University of Staffordshire, UK, with a solid understanding of both frontend and backend technologies. I have hands-on experience working with projects and a strong passion for building efficient and user-friendly applications. Aspiring to become a full stack developer, I’m constantly exploring new trends in IT while staying dedicated, hardworking, and always eager to learn and grow in the ever-evolving tech world.",
         "height": 350
     },
     "mySkills": [
         {
             "name": "HTML",
-            "image": "images/1175208.webp",
+            "image": "images/html5.svg",
             "alt": "html",
             "height": 150
         },
         {
             "name": "CSS",
-            "image": "images/CSS3.png",
+            "image": "images/css3.svg",
             "alt": "css",
             "height": 150
         },
         {
             "name": "Javascript",
-            "image": "images/JavaScript.png",
+            "image": "images/javascript.svg",
             "alt": "javascript",
             "height": 150
         },
         {
             "name": "python",
-            "image": "images/Python.png",
+            "image": "images/python.svg",
             "alt": "python",
             "height": 150
         },
         {
             "name": "C#",
-            "image": "images/cSharp.png",
+            "image": "images/csharp.svg",
             "alt": "c#",
             "height": 150
         },
         {
             "name": "Github",
-            "image": "images/GitHub.png",
+            "image": "images/github.svg",
             "alt": "github",
+            "height": 150
+        },
+        {
+            "name": "Laravel",
+            "image": "images/laravel.svg",
+            "alt": "laravel",
+            "height": 150
+        },
+        {
+            "name": "Flutter",
+            "image": "images/flutter.svg",
+            "alt": "flutter",
+            "height": 150
+        },
+        {
+            "name": "MySQL",
+            "image": "images/mysql.svg",
+            "alt": "mysql",
             "height": 150
         }
     ],
@@ -55,35 +73,35 @@
             "image": "images/library_system.png",
             "alt": "UI Mockup of a Library Management System",
             "description": "Developed a desktop application using C# and OOP principles to manage library operations, including book management, borrowing, reservations, and user management. The system supports full CRUD functionality and uses MySQL for secure database handling.",
-            "link": ""
+            "link": "https://github.com/Sukitha543/LibraryManagementSystem.git"
         },
         {
             "title": "Hospital Website",
             "image": "images/hospital_website.png",
             "alt": "UI Mockup of a Hospital Website",
             "description": "A responsive frontend website developed using HTML, CSS, and JavaScript, designed to demonstrate key web development fundamentals. The site includes interactive Add to Cart functionality, allowing users to easily select and manage services or products while exploring a clean and user-friendly interface.",
-            "link": ""
+            "link": "https://github.com/Sukitha543/WDOSassignment2.git"
         },
         {
             "title": "Stock Management System",
             "image": "images/stock_system.png",
             "alt": "UI Mockup of a Stock Management System",
             "description": "Designed and implemented a C# application using OOP principles to manage stock and inventory operations, including stock entry, issuing, employee registration, and user management. The system supports full CRUD functionality and integrates with MySQL for efficient data handling.",
-            "link": ""
+            "link": "https://github.com/Sukitha543/Stock-Management-System.git"
         },
         {
             "title": "E-Commerce Website (Luxury Watches)",
             "image": "images/watch_website.png",
             "alt": "Image of an E-Commerce Watch Website Mockup",
             "description": "Developed a full-stack e-commerce website using Laravel, Tailwind CSS, and MySQL with features such as user authentication, product management, add-to-cart, checkout, and an admin panel for managing products and orders.",
-            "link": ""
+            "link": "https://github.com/Sukitha543/Laravel-Assignment.git"
         },
         {
             "title": "E-Commerce Mobile App (Luxury Watches)",
             "image": "images/watch_mobile.png",
             "alt": "Image of an E-Commerce Watch Mobile App Mockup",
             "description": "Built a Flutter mobile app integrated with Laravel APIs, allowing users to browse products, add items to cart, and place orders while syncing seamlessly with the web platform.",
-            "link": ""
+            "link": "https://github.com/Sukitha543/MAD-Assignment.git"
         }
     ]
 }
