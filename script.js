@@ -10,7 +10,7 @@ async function fetchData(hero, about, skills, projects) {
 
     hero.innerHTML = `<h1>${data.Home.name}</h1>
     <p>${data.Home.description}</p>
-    <a class="btn btn-outline-dark btn-lg" href="${data.Home.link}" role="button">View My CV</a>`;
+    <a class="btn btn-outline-dark btn-lg" href="${data.Home.link}" role="button">View Resume</a>`;
 
     about.innerHTML = `<div class="img">
         <img id="img01" src="${data.AboutMe.image}" height="${data.AboutMe.height}" height="${data.AboutMe.width}" alt="${data.AboutMe.alt}">
@@ -37,7 +37,7 @@ async function fetchData(hero, about, skills, projects) {
             <div class="project-content">
                 <h3>${project.title}</h3>
                 <p>${project.description}</p>
-                <a class="btn-project" href="${project.link}" target="_blank" role="button">View Source Code</a>
+                <a class="btn-project" href="${project.link}" target="_blank" role="button">View Code</a>
             </div>
         `;
         projects.appendChild(projectsDiv);
